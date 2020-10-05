@@ -1,1 +1,1 @@
-# OpenCv-Pyhton-Image-Processing-
+# OpenCv-Python-Image-Processing-
