@@ -1,1 +1,1 @@
-<h1>THis code contains the otsu segmentation method from  scratch <b>without</b> using the indbuild cv2.OTSU segmentation method ,it all compares our method from scratch with the current in built method and our method gives an accuracy of ~ 98%
+<h1>This code contains the otsu segmentation method from  scratch WITHOUT using the indbuild cv2.OTSU segmentation method ,it all compares our method (from scratch) with the current in built method and our method gives an accuracy of ~ 98%
